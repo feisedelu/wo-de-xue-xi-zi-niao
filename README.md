@@ -1,1 +1,1 @@
-【makerdown学习资料】（blob/main/makedown.md）
+[makerdown学习资料]（blob/main/makedown.md）

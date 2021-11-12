@@ -25,3 +25,7 @@
 ##学习CSS
 
 [CSS基础](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/CSS%E5%9F%BA%E7%A1%80.md)
+
+##学习JavaScript
+
+[JavaScript学习](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/JavaScript%E5%AD%A6%E4%B9%A0.md)

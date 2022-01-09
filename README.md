@@ -33,3 +33,6 @@
 ##我的网页
 
 [我的网页](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/Untitled-1.html)
+
+##python基础
+[python基础](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/python.md)

@@ -22,18 +22,18 @@
 
 [区块及内联元素](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/%E5%8C%BA%E5%9D%97%E5%8F%8A%E5%86%85%E8%81%94%E5%85%83%E7%B4%A0.md)
 
-##学习CSS
+##**学习CSS**
 
 [CSS基础](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/CSS%E5%9F%BA%E7%A1%80.md)
 
-##学习JavaScript
+##**学习JavaScript**
 
 [JavaScript学习](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/JavaScript%E5%AD%A6%E4%B9%A0.md)
 
-##我的网页
+##**我的网页**
 
 [我的网页](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/Untitled-1.html)
 
-##python基础
+##**python基础**
 
 [python基础](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/python.md)

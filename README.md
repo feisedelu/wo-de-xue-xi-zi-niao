@@ -37,3 +37,6 @@
 ##**python基础**
 
 [python基础](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/python.md)
+
+[小demo----拆数字](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/%E6%8B%86%E6%95%B0%E5%AD%97.md)
+

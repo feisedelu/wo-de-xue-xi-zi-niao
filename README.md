@@ -42,3 +42,5 @@
 
 [爬虫 豆瓣top250](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/%E7%88%AC%E8%99%AB%20%E7%AE%80%E5%8D%95.md)
 
+[geek 爬取](https://github.com/feisedelu/wo-de-xue-xi-zi-niao/blob/main/geek%20%E7%88%AC%E5%8F%96.md)
+
